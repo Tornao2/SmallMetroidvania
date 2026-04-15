@@ -1,9 +1,5 @@
 To play the game install the ReadyProgram folder.
 
-Demonstration at:
-
-https://www.youtube.com/watch?v=J1YbuuOtXUQ
-
 Description:
 
 It has windowed(1280x720) and fullscreen stretched mode.
